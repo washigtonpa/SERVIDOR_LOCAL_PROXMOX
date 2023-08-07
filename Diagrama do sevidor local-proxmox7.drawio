@@ -1,13 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T01:27:40.119Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="qfAVbfS_ue4ya_Zn8FTA" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T01:31:48.450Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="mMEgEM_VylaQbxwqPzvy" version="21.6.6" type="github">
   <diagram name="Página-1" id="z-KcZ3VixuFzE4qX6nMh">
-    <mxGraphModel dx="874" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="HYDqoLFhDLZLG5UxYBqZ-1" target="HYDqoLFhDLZLG5UxYBqZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="HYDqoLFhDLZLG5UxYBqZ-1" target="HYDqoLFhDLZLG5UxYBqZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.099;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387.04" y="263" as="sourcePoint" />
+            <mxPoint x="260.00450000000006" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="HYDqoLFhDLZLG5UxYBqZ-1" target="HYDqoLFhDLZLG5UxYBqZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-2" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-2" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="350" y="50" width="100" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-3" value="Roteador" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
@@ -43,6 +58,9 @@
               <mxPoint x="390" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.632;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="HYDqoLFhDLZLG5UxYBqZ-11" target="HYDqoLFhDLZLG5UxYBqZ-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-11" value="Servidor Proxmox 7" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="120" height="30" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T02:07:50.166Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="2jZf60AKZv2q2W6xNs8P" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T02:13:40.274Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="EDDI-ryDVV1uxthwHCAv" version="21.6.6" type="github">
   <diagram name="Página-1" id="z-KcZ3VixuFzE4qX6nMh">
     <mxGraphModel dx="874" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="G6mCN-pESI46hSEwsqY2-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="395" y="640" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="G6mCN-pESI46hSEwsqY2-13" value="Zabbiz / Grafana" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
+        <mxCell id="G6mCN-pESI46hSEwsqY2-13" value="Zabbix / Grafana" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
           <mxGeometry x="365" y="600" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6mCN-pESI46hSEwsqY2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6mCN-pESI46hSEwsqY2-14">

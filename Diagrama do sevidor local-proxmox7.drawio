@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T01:59:07.979Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="7xcJiD6MgnT54rIQREYS" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T02:02:56.923Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="Tx-y15Rf0jJmYCGhaGgn" version="21.6.6" type="github">
   <diagram name="Página-1" id="z-KcZ3VixuFzE4qX6nMh">
     <mxGraphModel dx="874" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -210,6 +210,30 @@
         </mxCell>
         <mxCell id="G6mCN-pESI46hSEwsqY2-34" value="&lt;h1&gt;&lt;b style=&quot;background-color: rgb(225, 213, 231);&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px;&quot;&gt;MAQUINAS VIRTUAIS CLIENTES&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="244" y="735" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-35" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=0;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="149" y="840" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-36" value="Windows 10" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
+          <mxGeometry x="135.25" y="800" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-37" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=0;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="840" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-38" value="Windows 7" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
+          <mxGeometry x="266.75" y="800" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-39" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;rounded=0;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="840" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-40" value="Xubuntu 20" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="800" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-41" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;rounded=0;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="659" y="840" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-42" value="Xubuntu 18" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
+          <mxGeometry x="646.5" y="800" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

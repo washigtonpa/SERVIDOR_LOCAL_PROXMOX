@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T23:39:17.873Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="U6x7gB3ApE1k8mJbLw1N" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T23:03:25.136Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="F0K5k_ndoohR9yhShFty" version="24.2.3" type="github">
   <diagram name="Página-1" id="z-KcZ3VixuFzE4qX6nMh">
-    <mxGraphModel dx="794" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.632;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" parent="1" source="HYDqoLFhDLZLG5UxYBqZ-11" target="HYDqoLFhDLZLG5UxYBqZ-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-11" value="Servidor Proxmox 7" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
+        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-11" value="Servidor Proxmox 8" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="360" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-18" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Placa de rede OffBoard &lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -235,7 +235,7 @@
         <mxCell id="G6mCN-pESI46hSEwsqY2-42" value="Xubuntu 18" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="646.5" y="800" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B9Fp0uLAm0X1w9BT0swN-1" value="&lt;font color=&quot;#00cc00&quot; style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;Em planejamento&lt;/font&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#d5e8d4;strokeColor=#edd400;" vertex="1" parent="1">
+        <mxCell id="B9Fp0uLAm0X1w9BT0swN-1" value="&lt;font color=&quot;#00cc00&quot; style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;Em planejamento&lt;/font&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#d5e8d4;strokeColor=#edd400;" parent="1" vertex="1">
           <mxGeometry x="540" y="360" width="113.5" height="30" as="geometry" />
         </mxCell>
       </root>

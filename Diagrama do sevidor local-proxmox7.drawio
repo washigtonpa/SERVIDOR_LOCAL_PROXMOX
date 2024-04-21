@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T00:50:46.013Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="CLeukKQRQjUPt0MZE66M" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T23:25:18.169Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="ayYeNC2okRoOsSbaeqRn" version="24.2.3" type="github">
   <diagram name="Página-1" id="z-KcZ3VixuFzE4qX6nMh">
-    <mxGraphModel dx="1034" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,11 +74,17 @@
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-21" value="PFSense" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="34.5" y="390" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYDqoLFhDLZLG5UxYBqZ-22" target="HYDqoLFhDLZLG5UxYBqZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
           <mxGeometry x="149.5" y="440" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-23" value="Servidor DNS Primario" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="141.25" y="390" width="85.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYDqoLFhDLZLG5UxYBqZ-24" target="EEuMYAneATLPhjkmCHVZ-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
           <mxGeometry x="417.75" y="440" width="69" height="64" as="geometry" />
@@ -89,7 +95,7 @@
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-26" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
           <mxGeometry x="272.75" y="440" width="69" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-28" value="Servidor DNS Segundário" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
+        <mxCell id="HYDqoLFhDLZLG5UxYBqZ-28" value="Servidor DNS Secundário" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="264.5" y="390" width="85.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYDqoLFhDLZLG5UxYBqZ-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
@@ -113,17 +119,21 @@
         <mxCell id="G6mCN-pESI46hSEwsqY2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry y="560" width="1180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G6mCN-pESI46hSEwsqY2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G6mCN-pESI46hSEwsqY2-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G6mCN-pESI46hSEwsqY2-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;" parent="1" vertex="1">
-          <mxGeometry x="170" y="640" width="40" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="G6mCN-pESI46hSEwsqY2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G6mCN-pESI46hSEwsqY2-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69.99768445643896" y="682.4692111410973" as="sourcePoint" />
+            <mxPoint x="186.26" y="683" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="123.51" y="683" />
+              <mxPoint x="123.51" y="685" />
+              <mxPoint x="166.51" y="685" />
+              <mxPoint x="166.51" y="683" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G6mCN-pESI46hSEwsqY2-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" parent="1" vertex="1">
@@ -131,9 +141,6 @@
         </mxCell>
         <mxCell id="G6mCN-pESI46hSEwsqY2-6" value="Servidor Samba4" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="10" y="600" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G6mCN-pESI46hSEwsqY2-8" value="Windows Server 2019" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
-          <mxGeometry x="140" y="600" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6mCN-pESI46hSEwsqY2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G6mCN-pESI46hSEwsqY2-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -229,7 +236,7 @@
         <mxCell id="EEuMYAneATLPhjkmCHVZ-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
           <mxGeometry x="550" y="440" width="69" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="EEuMYAneATLPhjkmCHVZ-3" value="Srv DHCP Segundario" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
+        <mxCell id="EEuMYAneATLPhjkmCHVZ-3" value="Srv DHCP Secundario" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="516.75" y="390" width="113.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EEuMYAneATLPhjkmCHVZ-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HYDqoLFhDLZLG5UxYBqZ-11" target="EEuMYAneATLPhjkmCHVZ-3" edge="1">
@@ -247,14 +254,43 @@
         <mxCell id="EEuMYAneATLPhjkmCHVZ-9" value="SRV Docker" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="EEuMYAneATLPhjkmCHVZ-10" vertex="1">
           <mxGeometry width="86.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Szf12e-ulyjT9vhI86GA-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Szf12e-ulyjT9vhI86GA-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="980" y="604" width="86.5" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="Szf12e-ulyjT9vhI86GA-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="Szf12e-ulyjT9vhI86GA-1">
+        <mxCell id="Szf12e-ulyjT9vhI86GA-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="Szf12e-ulyjT9vhI86GA-1" vertex="1">
           <mxGeometry x="19.75" y="40" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="Szf12e-ulyjT9vhI86GA-3" value="SRV Fog Project" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="Szf12e-ulyjT9vhI86GA-1">
+        <mxCell id="Szf12e-ulyjT9vhI86GA-3" value="SRV Fog Project" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="Szf12e-ulyjT9vhI86GA-1" vertex="1">
           <mxGeometry width="86.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1090" y="585" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="BISfv6XbEdT_pvjCVgLF-4" source="G6mCN-pESI46hSEwsqY2-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;" parent="BISfv6XbEdT_pvjCVgLF-4" vertex="1">
+          <mxGeometry x="30" y="50" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G6mCN-pESI46hSEwsqY2-8" value="Windows Server 2019" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" parent="BISfv6XbEdT_pvjCVgLF-4" vertex="1">
+          <mxGeometry y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="258.75" y="585" as="targetPoint" />
+            <mxPoint x="199" y="658" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="259.75" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="169.25" y="638" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-6" value="Servidor Samba4 Secundário" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;" vertex="1" parent="1">
+          <mxGeometry x="149.5" y="600" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

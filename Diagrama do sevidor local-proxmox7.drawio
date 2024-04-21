@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T23:25:18.169Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="ayYeNC2okRoOsSbaeqRn" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T23:27:33.050Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="oTssPwgIh9KKKvoqoM8n" version="24.2.3" type="github">
   <diagram name="Página-1" id="z-KcZ3VixuFzE4qX6nMh">
     <mxGraphModel dx="1114" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EEuMYAneATLPhjkmCHVZ-10" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="850" y="600" width="86.5" height="86" as="geometry" />
+          <mxGeometry x="827" y="604" width="86.5" height="86" as="geometry" />
         </mxCell>
         <mxCell id="EEuMYAneATLPhjkmCHVZ-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="EEuMYAneATLPhjkmCHVZ-10" vertex="1">
           <mxGeometry x="19.75" y="40" width="50" height="46" as="geometry" />
@@ -255,7 +255,7 @@
           <mxGeometry width="86.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Szf12e-ulyjT9vhI86GA-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="980" y="604" width="86.5" height="86" as="geometry" />
+          <mxGeometry x="940" y="604" width="86.5" height="86" as="geometry" />
         </mxCell>
         <mxCell id="Szf12e-ulyjT9vhI86GA-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="Szf12e-ulyjT9vhI86GA-1" vertex="1">
           <mxGeometry x="19.75" y="40" width="50" height="46" as="geometry" />
@@ -264,7 +264,7 @@
           <mxGeometry width="86.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BISfv6XbEdT_pvjCVgLF-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1090" y="585" width="120" height="100" as="geometry" />
+          <mxGeometry x="1040" y="590" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="G6mCN-pESI46hSEwsqY2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="BISfv6XbEdT_pvjCVgLF-4" source="G6mCN-pESI46hSEwsqY2-3" edge="1">
           <mxGeometry relative="1" as="geometry">

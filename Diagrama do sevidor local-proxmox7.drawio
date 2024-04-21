@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T23:27:33.050Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="oTssPwgIh9KKKvoqoM8n" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T23:33:07.612Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Ng_BVY2Mt6KAS8n0VXAq" version="24.2.3" type="github">
   <diagram name="Página-1" id="z-KcZ3VixuFzE4qX6nMh">
     <mxGraphModel dx="1114" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -248,6 +248,11 @@
         <mxCell id="EEuMYAneATLPhjkmCHVZ-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="827" y="604" width="86.5" height="86" as="geometry" />
         </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EEuMYAneATLPhjkmCHVZ-10" source="EEuMYAneATLPhjkmCHVZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="93" y="-14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EEuMYAneATLPhjkmCHVZ-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="EEuMYAneATLPhjkmCHVZ-10" vertex="1">
           <mxGeometry x="19.75" y="40" width="50" height="46" as="geometry" />
         </mxCell>
@@ -256,6 +261,11 @@
         </mxCell>
         <mxCell id="Szf12e-ulyjT9vhI86GA-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="940" y="604" width="86.5" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="BISfv6XbEdT_pvjCVgLF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Szf12e-ulyjT9vhI86GA-1" source="Szf12e-ulyjT9vhI86GA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="-24" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Szf12e-ulyjT9vhI86GA-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="Szf12e-ulyjT9vhI86GA-1" vertex="1">
           <mxGeometry x="19.75" y="40" width="50" height="46" as="geometry" />

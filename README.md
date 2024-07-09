@@ -2,10 +2,10 @@
 
 ## Maquinas virtuais do projeto
 
- --  PFSense: O pfSense é um software livre e de código aberto (open source) que
+ ** PFSense: O pfSense é um software livre e de código aberto (open source) que
       atua como um firewall e roteador robusto para redes.
 
- --  ** Servidor DNS (com Bind9): O Bind9 é um software para servidor DNS de
+ --  Servidor DNS (com Bind9): O Bind9 é um software para servidor DNS de
       código aberto e gratuito, amplamente utilizado para gerenciar e controlar o
       Sistema de Nomes de Domínio (DNS) em redes locais e na internet.
       

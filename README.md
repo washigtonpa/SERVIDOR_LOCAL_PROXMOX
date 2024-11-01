@@ -29,4 +29,4 @@
 
 - **OnlyOffice**: É uma suíte de escritório completa e de código aberto que oferece diversas ferramentas para edição de documentos, planilhas e apresentações. Ele é uma alternativa gratuita e poderosa ao Microsoft Office, com a vantagem de ser multiplataforma, funcionando em Windows, macOS, Linux e na web.
 
-    
+- **Wazuh**: Oferece uma gama de funcionalidades avançadas, desde coleta e análise de logs até monitoramento de integridade de arquivos. Além disso, a ferramenta permite a criação de regras de correlação e detecção de anomalias em hosts.     

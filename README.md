@@ -1,7 +1,7 @@
 # 🖥️ Servidor Proxmox
 
 
-** Maquinas virtuais do projeto **
+**Maquinas virtuais do projeto**
 
   - **pfSense**: O pfSense é um software livre e de código aberto (open source) que atua como um firewall e roteador robusto para redes.
 
